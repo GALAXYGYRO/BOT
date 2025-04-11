@@ -15,5 +15,22 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-04-11T05:08:35.004Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetUserId": "467918567694663700",
+    "targetUserTag": "shoyomain",
+    "script": "surgery_bothax",
+    "uid": "10",
+    "tokensBefore": 10,
+    "tokensAfter": 9,
+    "roleAssigned": "1352392112053682267",
+    "roleName": "G - SURGERY",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "SURGERY",
+    "githubUidStatus": "Berhasil Ditambahkan (SURGERY @ GYRO)",
+    "overallSuccess": true
   }
 ]
