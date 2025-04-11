@@ -1,1 +1,11 @@
-
+[
+  {
+    "timestamp": "2025-04-11T05:07:39.313Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "467918567694663700",
+    "targetTag": "shoyomain",
+    "previousAmount": 986,
+    "newAmount": 10
+  }
+]
