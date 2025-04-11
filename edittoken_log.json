@@ -26,5 +26,14 @@
     "target": "352372088134303744",
     "oldAmount": 1,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-11T02:24:24.776Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "467918567694663700",
+    "targetTag": "shoyomain",
+    "previousAmount": 10,
+    "newAmount": 100
   }
 ]
