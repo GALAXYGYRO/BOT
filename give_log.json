@@ -35,5 +35,19 @@
     "roleAssigned": "1345814085375361034",
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil (PROXY)"
+  },
+  {
+    "timestamp": "2025-04-11T03:00:14.011Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetUserId": "467918567694663700",
+    "targetUserTag": "shoyomain",
+    "script": "proxy_bothax",
+    "uid": "10",
+    "tokensBefore": 8,
+    "tokensAfter": 7,
+    "roleAssigned": "1345814085375361034",
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil (PROXY @ GYRO)"
   }
 ]
