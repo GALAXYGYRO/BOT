@@ -7,5 +7,19 @@
     "uid": "10",
     "tokensBefore": 100,
     "tokensAfter": 99
+  },
+  {
+    "timestamp": "2025-04-11T02:43:24.060Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetUserId": "467918567694663700",
+    "targetUserTag": "shoyomain",
+    "script": "proxy_bothax",
+    "uid": "1",
+    "tokensBefore": 10,
+    "tokensAfter": 9,
+    "roleAssigned": "1345814085375361034",
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil (PROXY)"
   }
 ]
