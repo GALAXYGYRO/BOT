@@ -25,5 +25,14 @@
     "targetTag": "dr.justgaa",
     "previousAmount": 5,
     "newAmount": 1
+  },
+  {
+    "timestamp": "2025-04-11T10:21:00.433Z",
+    "adminId": "1055434360771334154",
+    "adminTag": "dr.justgaa",
+    "targetId": "1055434360771334154",
+    "targetTag": "dr.justgaa",
+    "previousAmount": 1,
+    "newAmount": 6
   }
 ]
