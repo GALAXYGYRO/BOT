@@ -35,5 +35,14 @@
     "targetTag": "shoyomain",
     "previousAmount": 10,
     "newAmount": 100
+  },
+  {
+    "timestamp": "2025-04-11T02:25:07.947Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1347468385012944907",
+    "targetTag": "Galaxy Script#1912",
+    "previousAmount": 0,
+    "newAmount": 10
   }
 ]
