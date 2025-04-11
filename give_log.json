@@ -119,5 +119,22 @@
     "roleAssigned": "1345814085375361034",
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil (PROXY @ GYRO)"
+  },
+  {
+    "timestamp": "2025-04-11T04:28:23.855Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetUserId": "1347468385012944907",
+    "targetUserTag": "Galaxy Script#1912",
+    "script": "proxy_bothax",
+    "uid": "1",
+    "tokensBefore": 2,
+    "tokensAfter": 1,
+    "roleAssigned": "1345814085375361034",
+    "roleName": "G - PROXYBH",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
+    "overallSuccess": true
   }
 ]
