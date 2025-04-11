@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2025-03-21T20:46:53.909Z",
+    "executor": "467918567694663700",
+    "targetUser": "467918567694663700",
+    "script": "proxy_bothax",
+    "uid": "10",
+    "tokensBefore": 100,
+    "tokensAfter": 99
+  }
+]
