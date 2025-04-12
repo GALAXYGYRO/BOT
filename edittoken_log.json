@@ -70,5 +70,14 @@
     "targetTag": "_bssx",
     "previousAmount": 3,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-12T17:50:43.024Z",
+    "adminId": "1235639553004539925",
+    "adminTag": "kingfal01",
+    "targetId": "1235639553004539925",
+    "targetTag": "kingfal01",
+    "previousAmount": 4,
+    "newAmount": 1000
   }
 ]
