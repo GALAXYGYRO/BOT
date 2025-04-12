@@ -321,5 +321,22 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-04-12T05:40:42.587Z",
+    "adminId": "1055434360771334154",
+    "adminTag": "dr.justgaa",
+    "targetUserId": "960471364874174494",
+    "targetUserTag": "tino04090",
+    "script": "proxy_gl",
+    "uid": "877689",
+    "tokensBefore": 5,
+    "tokensAfter": 4,
+    "roleAssigned": "1352391880762982462",
+    "roleName": "G - PROXYGL",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXYGL",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXYGL @ GYRO)",
+    "overallSuccess": true
   }
 ]
