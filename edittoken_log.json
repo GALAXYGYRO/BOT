@@ -61,5 +61,14 @@
     "targetTag": "shoyomain",
     "previousAmount": 98,
     "newAmount": 10000000
+  },
+  {
+    "timestamp": "2025-04-12T04:34:38.437Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "352372088134303744",
+    "targetTag": "_bssx",
+    "previousAmount": 3,
+    "newAmount": 5
   }
 ]
