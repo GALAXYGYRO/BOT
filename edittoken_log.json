@@ -88,5 +88,14 @@
     "targetTag": "geardraco",
     "previousAmount": 0,
     "newAmount": 10
+  },
+  {
+    "timestamp": "2025-04-13T00:18:37.309Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1172735983712743474",
+    "targetTag": "geardraco",
+    "previousAmount": 9,
+    "newAmount": 1
   }
 ]
