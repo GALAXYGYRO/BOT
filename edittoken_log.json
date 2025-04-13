@@ -151,5 +151,14 @@
     "targetTag": "dr.justgaa",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-13T01:09:13.465Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1235639553004539925",
+    "targetTag": "kingfal01",
+    "previousAmount": 0,
+    "newAmount": 5
   }
 ]
