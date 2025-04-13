@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-04-13T00:43:04.382Z",
+    "executorId": "467918567694663700",
+    "executorTag": "shoyomain",
+    "senderId": "467918567694663700",
+    "senderTag": "shoyomain",
+    "receiverId": "1172735983712743474",
+    "receiverTag": "geardraco",
+    "amount": 1,
+    "senderBalanceAfter": 8,
+    "receiverBalanceAfter": 1,
+    "publicLogChannelId": "1360776108798378075",
+    "publicLogSent": true
+  }
+]
