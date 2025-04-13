@@ -12,5 +12,19 @@
     "receiverBalanceAfter": 1,
     "publicLogChannelId": "1360776108798378075",
     "publicLogSent": true
+  },
+  {
+    "timestamp": "2025-04-13T00:47:20.291Z",
+    "executorId": "1172735983712743474",
+    "executorTag": "geardraco",
+    "senderId": "1172735983712743474",
+    "senderTag": "geardraco",
+    "receiverId": "467918567694663700",
+    "receiverTag": "shoyomain",
+    "amount": 1,
+    "senderBalanceAfter": 0,
+    "receiverBalanceAfter": 9,
+    "publicLogChannelId": "1360776108798378075",
+    "publicLogSent": true
   }
 ]
