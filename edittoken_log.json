@@ -160,5 +160,14 @@
     "targetTag": "kingfal01",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-13T06:16:04.268Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1042076253659865170",
+    "targetTag": "dedecps777",
+    "previousAmount": 0,
+    "newAmount": 1
   }
 ]
