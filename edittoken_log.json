@@ -142,5 +142,14 @@
     "targetTag": "shal5542",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-13T01:09:08.913Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1055434360771334154",
+    "targetTag": "dr.justgaa",
+    "previousAmount": 0,
+    "newAmount": 5
   }
 ]
