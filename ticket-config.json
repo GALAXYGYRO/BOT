@@ -1,0 +1,21 @@
+{
+    "contohGuildId": {
+        "panelChannelId": null,
+        "categoryId": null,
+        "supportRoleIds": [],
+        "ticketCounter": 0,
+        "logChannelId": null
+    },
+    "1345812827788808212": {
+        "panelChannelId": "1356420816509599764",
+        "categoryId": "1345816421917003866",
+        "supportRoleIds": [
+            "1345815030825877576",
+            "1348429032538243134",
+            "1345813969163649114",
+            "1349463616524386385"
+        ],
+        "ticketCounter": 7,
+        "logChannelId": "1360710499662303312"
+    }
+}
