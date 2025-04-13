@@ -115,5 +115,14 @@
     "targetTag": "shoyomain",
     "previousAmount": 0,
     "newAmount": 10
+  },
+  {
+    "timestamp": "2025-04-13T01:08:14.317Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1046082672226738309",
+    "targetTag": "den777__",
+    "previousAmount": 0,
+    "newAmount": 4
   }
 ]
