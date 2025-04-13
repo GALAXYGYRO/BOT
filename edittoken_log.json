@@ -133,5 +133,14 @@
     "targetTag": "_andaru25",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-13T01:08:46.169Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "361064515678371841",
+    "targetTag": "shal5542",
+    "previousAmount": 0,
+    "newAmount": 5
   }
 ]
