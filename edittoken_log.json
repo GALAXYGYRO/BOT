@@ -79,5 +79,14 @@
     "targetTag": "kingfal01",
     "previousAmount": 4,
     "newAmount": 1000
+  },
+  {
+    "timestamp": "2025-04-13T00:16:33.157Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1172735983712743474",
+    "targetTag": "geardraco",
+    "previousAmount": 0,
+    "newAmount": 10
   }
 ]
