@@ -687,5 +687,23 @@
     "githubUidFileUpdated": "SPAMSB",
     "githubUidStatus": "Berhasil Ditambahkan (SPAMSB @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-04-14T17:32:28.944Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetUserId": "605804254954782740",
+    "targetUserTag": "zx7645",
+    "script": "spamsb_bothax",
+    "uid": "572036",
+    "tokensBefore": 9,
+    "tokensAfter": 9,
+    "tokenDeducted": false,
+    "roleAssigned": "1352391781852905603",
+    "roleName": "G - SPAMSB",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "SPAMSB",
+    "githubUidStatus": "Berhasil Ditambahkan (SPAMSB @ GYRO)",
+    "overallSuccess": true
   }
 ]
