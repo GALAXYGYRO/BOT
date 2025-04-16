@@ -40,5 +40,19 @@
     "receiverBalanceAfter": 1,
     "publicLogChannelId": "1360776108798378075",
     "publicLogSent": true
+  },
+  {
+    "timestamp": "2025-04-16T09:56:26.230Z",
+    "executorId": "467918567694663700",
+    "executorTag": "shoyomain",
+    "senderId": "467918567694663700",
+    "senderTag": "shoyomain",
+    "receiverId": "1042076253659865170",
+    "receiverTag": "dedecps777",
+    "amount": 5,
+    "senderBalanceAfter": 4,
+    "receiverBalanceAfter": 5,
+    "publicLogChannelId": "1360776108798378075",
+    "publicLogSent": true
   }
 ]
