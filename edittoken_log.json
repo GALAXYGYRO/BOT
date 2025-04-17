@@ -214,5 +214,14 @@
     "targetTag": "discomunicates",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-17T14:34:05.773Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "974098128393338980",
+    "targetTag": "eza_store",
+    "previousAmount": 0,
+    "newAmount": 2
   }
 ]
