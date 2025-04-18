@@ -903,5 +903,23 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-04-18T09:07:20.674Z",
+    "adminId": "974098128393338980",
+    "adminTag": "eza_store",
+    "targetUserId": "974098128393338980",
+    "targetUserTag": "eza_store",
+    "script": "ptht_bothax",
+    "uid": "413016",
+    "tokensBefore": 2,
+    "tokensAfter": 1,
+    "tokenDeducted": true,
+    "roleAssigned": "1352391968147112101",
+    "roleName": "G - PTHT",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PTHT",
+    "githubUidStatus": "Berhasil Ditambahkan (PTHT @ GYRO)",
+    "overallSuccess": true
   }
 ]
