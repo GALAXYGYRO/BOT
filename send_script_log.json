@@ -957,5 +957,23 @@
     "githubUidFileUpdated": "PTHT",
     "githubUidStatus": "Berhasil Ditambahkan (PTHT @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-04-20T11:22:42.035Z",
+    "adminId": "1101854702183923732",
+    "adminTag": "legendarymountain",
+    "targetUserId": "1190574124066684992",
+    "targetUserTag": "recovering_12",
+    "script": "proxy_gl",
+    "uid": "455447",
+    "tokensBefore": 2,
+    "tokensAfter": 1,
+    "tokenDeducted": true,
+    "roleAssigned": "1352391880762982462",
+    "roleName": "G - PROXYGL",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXYGL",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXYGL @ GYRO)",
+    "overallSuccess": true
   }
 ]
