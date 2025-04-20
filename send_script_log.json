@@ -939,5 +939,23 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-04-20T08:53:30.923Z",
+    "adminId": "1120973765241733240",
+    "adminTag": "_andaru25",
+    "targetUserId": "824237546007429151",
+    "targetUserTag": "yt.zeno",
+    "script": "ptht_bothax",
+    "uid": "768941",
+    "tokensBefore": 2,
+    "tokensAfter": 1,
+    "tokenDeducted": true,
+    "roleAssigned": "1352391968147112101",
+    "roleName": "G - PTHT",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PTHT",
+    "githubUidStatus": "Berhasil Ditambahkan (PTHT @ GYRO)",
+    "overallSuccess": true
   }
 ]
