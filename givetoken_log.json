@@ -54,5 +54,19 @@
     "receiverBalanceAfter": 5,
     "publicLogChannelId": "1360776108798378075",
     "publicLogSent": true
+  },
+  {
+    "timestamp": "2025-04-20T11:21:23.956Z",
+    "executorId": "1235639553004539925",
+    "executorTag": "kingfal01",
+    "senderId": "1235639553004539925",
+    "senderTag": "kingfal01",
+    "receiverId": "1101854702183923732",
+    "receiverTag": "legendarymountain",
+    "amount": 2,
+    "senderBalanceAfter": 3,
+    "receiverBalanceAfter": 2,
+    "publicLogChannelId": "1360776108798378075",
+    "publicLogSent": true
   }
 ]
