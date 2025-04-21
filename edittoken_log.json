@@ -250,5 +250,14 @@
     "targetTag": "_andaru25",
     "previousAmount": 1,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-21T14:44:59.975Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1201718112349851720",
+    "targetTag": "saraevstore",
+    "previousAmount": 0,
+    "newAmount": 6
   }
 ]
