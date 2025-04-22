@@ -259,5 +259,14 @@
     "targetTag": "saraevstore",
     "previousAmount": 0,
     "newAmount": 6
+  },
+  {
+    "timestamp": "2025-04-22T02:43:12.914Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1032605435162791957",
+    "targetTag": "elaina08_",
+    "previousAmount": 5,
+    "newAmount": 0
   }
 ]
