@@ -295,5 +295,14 @@
     "targetTag": "dedecps777",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-04-23T15:32:59.879Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "1120973765241733240",
+    "targetTag": "_andaru25",
+    "previousAmount": 2,
+    "newAmount": 5
   }
 ]
