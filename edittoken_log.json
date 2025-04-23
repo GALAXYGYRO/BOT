@@ -277,5 +277,14 @@
     "targetTag": "kelvin1771",
     "previousAmount": 5,
     "newAmount": 0
+  },
+  {
+    "timestamp": "2025-04-23T12:40:29.225Z",
+    "adminId": "467918567694663700",
+    "adminTag": "shoyomain",
+    "targetId": "467918567694663700",
+    "targetTag": "shoyomain",
+    "previousAmount": 2,
+    "newAmount": 100
   }
 ]
