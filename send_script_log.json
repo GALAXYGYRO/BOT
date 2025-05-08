@@ -1209,5 +1209,23 @@
     "githubUidFileUpdated": "PROXYGL",
     "githubUidStatus": "Berhasil Ditambahkan (PROXYGL @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-05-08T06:08:15.899Z",
+    "adminId": "517704176663396381",
+    "adminTag": "imazzz",
+    "targetUserId": "517704176663396381",
+    "targetUserTag": "imazzz",
+    "script": "spamsb_bothax",
+    "uid": "393839",
+    "tokensBefore": 4,
+    "tokensAfter": 3,
+    "tokenDeducted": true,
+    "roleAssigned": "1352391781852905603",
+    "roleName": "G - SPAMSB",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "SPAMSB",
+    "githubUidStatus": "Berhasil Ditambahkan (SPAMSB @ GYRO)",
+    "overallSuccess": true
   }
 ]
