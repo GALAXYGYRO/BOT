@@ -1317,5 +1317,23 @@
     "githubUidFileUpdated": "PNB",
     "githubUidStatus": "Berhasil Ditambahkan (PNB @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-05-26T11:32:04.991Z",
+    "adminId": "1101854702183923732",
+    "adminTag": "legendarymountain",
+    "targetUserId": "1147876549031370854",
+    "targetUserTag": "fahri_18",
+    "script": "proxy_bothax",
+    "uid": "40697",
+    "tokensBefore": 1,
+    "tokensAfter": 0,
+    "tokenDeducted": true,
+    "roleAssigned": "1345814085375361034",
+    "roleName": "G - PROXYBH",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
+    "overallSuccess": true
   }
 ]
