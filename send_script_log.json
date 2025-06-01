@@ -1353,5 +1353,23 @@
     "githubUidFileUpdated": "SPAMSB",
     "githubUidStatus": "Berhasil Ditambahkan (SPAMSB @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-06-01T14:29:19.883Z",
+    "adminId": "1235639553004539925",
+    "adminTag": "kingfal01",
+    "targetUserId": "1348021940182454345",
+    "targetUserTag": "ranggazzz.",
+    "script": "proxy_bothax",
+    "uid": "949777",
+    "tokensBefore": 5,
+    "tokensAfter": 5,
+    "tokenDeducted": false,
+    "roleAssigned": "1345814085375361034",
+    "roleName": "G - PROXYBH",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
+    "overallSuccess": true
   }
 ]
