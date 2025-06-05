@@ -1389,5 +1389,23 @@
     "githubUidFileUpdated": "PNB",
     "githubUidStatus": "Sudah Ada (PNB @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-06-05T10:40:02.777Z",
+    "adminId": "517704176663396381",
+    "adminTag": "imazzz",
+    "targetUserId": "1055668999184199751",
+    "targetUserTag": "atan_029",
+    "script": "proxy_bothax",
+    "uid": "959734",
+    "tokensBefore": 3,
+    "tokensAfter": 2,
+    "tokenDeducted": true,
+    "roleAssigned": "1345814085375361034",
+    "roleName": "G - PROXYBH",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
+    "overallSuccess": true
   }
 ]
