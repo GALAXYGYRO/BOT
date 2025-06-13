@@ -313,5 +313,14 @@
     "targetTag": "imazzz",
     "previousAmount": 0,
     "newAmount": 5
+  },
+  {
+    "timestamp": "2025-06-13T19:05:25.167Z",
+    "adminId": "1235639553004539925",
+    "adminTag": "kingfal01",
+    "targetId": "517704176663396381",
+    "targetTag": "imazzz",
+    "previousAmount": 0,
+    "newAmount": 10
   }
 ]
