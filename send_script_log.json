@@ -1623,5 +1623,23 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-06-15T00:52:38.790Z",
+    "adminId": "1042076253659865170",
+    "adminTag": "dedecps777",
+    "targetUserId": "443306796506152960",
+    "targetUserTag": "wannabeyours4961",
+    "script": "proxy_bothax",
+    "uid": "263917",
+    "tokensBefore": 14,
+    "tokensAfter": 13,
+    "tokenDeducted": true,
+    "roleAssigned": "1345814085375361034",
+    "roleName": "G - PROXYBH",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Sudah Ada (PROXY @ GYRO)",
+    "overallSuccess": true
   }
 ]
