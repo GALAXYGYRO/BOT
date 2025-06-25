@@ -2019,5 +2019,23 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-06-25T07:24:04.599Z",
+    "adminId": "974098128393338980",
+    "adminTag": "eza_store",
+    "targetUserId": "974098128393338980",
+    "targetUserTag": "eza_store",
+    "script": "pnb_bothax",
+    "uid": "413016",
+    "tokensBefore": 4,
+    "tokensAfter": 3,
+    "tokenDeducted": true,
+    "roleAssigned": "1352391715218260019",
+    "roleName": "G - PNB",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PNB",
+    "githubUidStatus": "Berhasil Ditambahkan (PNB @ GYRO)",
+    "overallSuccess": true
   }
 ]
