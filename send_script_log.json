@@ -2109,5 +2109,23 @@
     "githubUidFileUpdated": "PROXY",
     "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
     "overallSuccess": true
+  },
+  {
+    "timestamp": "2025-06-29T14:06:45.049Z",
+    "adminId": "974098128393338980",
+    "adminTag": "eza_store",
+    "targetUserId": "1262446347106259034",
+    "targetUserTag": "cenggt",
+    "script": "proxy_bothax",
+    "uid": "361371",
+    "tokensBefore": 3,
+    "tokensAfter": 2,
+    "tokenDeducted": true,
+    "roleAssigned": "1345814085375361034",
+    "roleName": "G - PROXYBH",
+    "roleAddSuccess": true,
+    "githubUidFileUpdated": "PROXY",
+    "githubUidStatus": "Berhasil Ditambahkan (PROXY @ GYRO)",
+    "overallSuccess": true
   }
 ]
